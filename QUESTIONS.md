@@ -11,16 +11,16 @@ included in your commit, or I won't see it to grade it!*
 
 What... is GitHub, and how is it different from Git?
 
-*Replace this line with your answer*
+Github is an online code space that allows users to upload their code to a online cloud server and manage it. Github also serves as a "hub" for people to share their code and showcase their coding journey. 
 
 #### Question 2
 
 What... is your favorite type of snake?
 
-*Replace this line with your answer*
+The Carphophis amoenus or worm snake is my favorite snake.
 
-#### Question 3
+#### Question 3  
 
 What... is the airspeed velocity of an unladen swallow?
 
-*Replace this line with your answer*
+"what do you mean? An african or European swallow?"
